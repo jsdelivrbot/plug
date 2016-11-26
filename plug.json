@@ -2,7 +2,7 @@
   "room":   "ⓉⓄⓅ CZ-SK-EN Music♫",
   "author": "Repi1997",
   "icon":   "http://www.jpeg.cz/images/2016/11/24/GMIjh.png",
-  "css":    "https://raw.githubusercontent.com/Samnick86/plug/master/plug.css",
+  "css":    "https://rawgit.com/Samnick86/plug/master/plug.css",
   "rules": {
     "allowAutorespond": true,
     "allowAutowoot":    true,
