@@ -1,0 +1,45 @@
+{
+  "room":   "ⓉⓄⓅ CZ-SK-EN Music♫",
+  "author": "Repi1997",
+  "icon":   "http://plugtop.wz.cz/GMIjh.png",
+  "css":    "https://raw.githubusercontent.com/Samnick86/plug/master/top.css",
+  "rules": {
+    "allowAutorespond": true,
+    "allowAutowoot":    true,
+    "allowAutojoin":    true,
+    "allowAutograb":    true,
+    "allowSmartVote":   true,
+    "allowEmotes":      true,
+    "allowShowingMehs": true,
+    "forceSmartVote":   false
+  },
+  "ccc": {
+    "admin":            null,
+    "ambassador":       null,
+    "host":             "#5BF",
+    "cohost":           "#58F",
+    "manager":          "#E15",
+    "bouncer":          "#F45",
+    "rdj":              "#F95",
+    "subscriber":       "#E6CC26",
+    "silversubscriber": "#DC24D9",
+    "friend":           null,
+    "user":             null
+  },
+  "images": {
+    "background":       "http://plugtop.wz.cz/84g3.jpg",
+    "playback":         "http://plugtop.wz.cz/qNzlCA.png",
+    "admin":            null,
+    "ambassador":       null,
+    "host":             "http://plugtop.wz.cz/xzGl7r.png",
+    "cohost":           "http://plugtop.wz.cz/4xpAHa.png",
+    "manager":          "http://plugtop.wz.cz/LNJyPX.png",
+    "bouncer":          "http://plugtop.wz.cz/Yh8lpk.png",
+    "rdj":              "http://plugtop.wz.cz/ff3ChJ.png",
+    "subscriber":       "http://plugtop.wz.cz/CSr2Tx.png",
+    "silversubscriber": "http://plugtop.wz.cz/8Brxr9.png"
+  },
+  "autocomplete": [],
+  "emotes": {
+  }
+}
