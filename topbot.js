@@ -1,6 +1,7 @@
 /**
- *Copyright 2016 basicBot
- *Original basicBot for TopPlug plug.DJ room.
+ *Copyright 2015 basicBot
+ *Modifications (including forks) of the code to fit personal needs are allowed only for personal use and should refer back to the original source.
+ *This software is not for profit, any extension, or unauthorised person providing this software is not authorised to be in a position of any monetary gain from this use of this software. Any and all money gained under the use of the software (which includes donations) must be passed on to the original author.
  */
 
 
@@ -98,7 +99,7 @@
     var loadChat = function (cb) {
         if (!cb) cb = function () {
         };
-        $.get("https://rawgit.com/Samnick86/plug/master/lang/langIndex.json", function (json) {
+        $.get("https://rawgit.com/basicBot/source/master/lang/langIndex.json", function (json) {
             var link = basicBot.chatLink;
             if (json !== null && typeof json !== "undefined") {
                 langIndex = json;
@@ -232,16 +233,16 @@
 
     var botCreator = "Yemasthui";
     var botMaintainer = "Benzi"
-    var botCreatorIDs = ["38515340", "41052090"];
+    var botCreatorIDs = ["3851534", "4105209"];
 
     var basicBot = {
-        version: "3.0.0",
+        version: "2.9.1",
         status: false,
-        name: "TopBot",
+        name: "basicBot",
         loggedInID: null,
-        scriptLink: "hhttps://rawgit.com/Samnick86/plug/master/topbot.js",
-        cmdLink: "https://rawgit.com/Samnick86/plug/master/commands.md",
-        chatLink: "https://rawgit.com/Samnick86/plug/master/lang/en.json",
+        scriptLink: "https://rawgit.com/basicBot/source/master/basicBot.js",
+        cmdLink: "http://git.io/245Ppg",
+        chatLink: "https://rawgit.com/basicBot/source/master/lang/en.json",
         chat: null,
         loadChat: loadChat,
         retrieveSettings: retrieveSettings,
@@ -249,8 +250,8 @@
         settings: {
             botName: "basicBot",
             language: "english",
-            chatLink: "https://rawgit.com/Samnick86/plug/master/lang/en.json",
-            scriptLink: "https://rawgit.com/Samnick86/plug/master/topbot.js",
+            chatLink: "https://rawgit.com/basicBot/source/master/lang/en.json",
+            scriptLink: "https://rawgit.com/basicBot/source/master/basicBot.js",
             roomLock: false, // Requires an extension to re-load the script
             startupCap: 1, // 1-200
             startupVolume: 0, // 0-100
@@ -2022,7 +2023,7 @@
 
             dclookupCommand: {
                 command: ['dclookup', 'dc'],
-                rank: 'host',
+                rank: 'manager',
                 type: 'startsWith',
                 functionality: function (chat, cmd) {
                     if (this.type === 'exact' && chat.message.length !== cmd.length) return void (0);
@@ -2168,7 +2169,7 @@
 
             etaCommand: {
                 command: 'eta',
-                rank: 'host',
+                rank: 'user',
                 type: 'startsWith',
                 functionality: function (chat, cmd) {
                     if (this.type === 'exact' && chat.message.length !== cmd.length) return void (0);
@@ -2378,7 +2379,7 @@
 
             joinCommand: {
                 command: 'join',
-                rank: 'host',
+                rank: 'user',
                 type: 'exact',
                 functionality: function (chat, cmd) {
                     if (this.type === 'exact' && chat.message.length !== cmd.length) return void (0);
@@ -2507,7 +2508,7 @@
 
             leaveCommand: {
                 command: 'leave',
-                rank: 'host',
+                rank: 'user',
                 type: 'exact',
                 functionality: function (chat, cmd) {
                     if (this.type === 'exact' && chat.message.length !== cmd.length) return void (0);
@@ -2567,7 +2568,7 @@
 
             lockdownCommand: {
                 command: 'lockdown',
-                rank: 'host',
+                rank: 'mod',
                 type: 'exact',
                 functionality: function (chat, cmd) {
                     if (this.type === 'exact' && chat.message.length !== cmd.length) return void (0);
@@ -3094,7 +3095,7 @@
 
             sourceCommand: {
                 command: 'source',
-                rank: 'host',
+                rank: 'user',
                 type: 'exact',
                 functionality: function (chat, cmd) {
                     if (this.type === 'exact' && chat.message.length !== cmd.length) return void (0);
