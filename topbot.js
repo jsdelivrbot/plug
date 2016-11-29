@@ -301,7 +301,7 @@
             opLink: null,
             rulesLink: null,
             themeLink: null,
-            fbLink: null,
+            fbLink: "https://www.facebook.com/PlugDJ-Top-CZ-SK-489707661238352",
             youtubeLink: null,
             website: "www.plugtop.wz.cz",
             intervalMessages: [],
