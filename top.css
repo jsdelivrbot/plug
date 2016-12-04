@@ -1106,7 +1106,10 @@
     background-position: 2px center;
     background-size: 16px auto;
 }
-
+#chat [data-cid^="14600820-"] .bdg {
+  background: url('https://rcs.radiant.dj/img/plugdj/badges/bdg-beachb-e01.gif') !important;
+  background-position: 0px 0px;
+}
 /* TopBot */
 [data-cid^="-"] .msg .from .un {
     position: relative;
