@@ -1108,6 +1108,7 @@
 }
 #chat [data-cid^="14600820-"] .bdg {
   background: url('https://rcs.radiant.dj/img/plugdj/badges/bdg-beachb-e01.gif') !important;
+  background-size: 32px auto;	
   background-position: 0px 0px;
 }
 /* TopBot */
