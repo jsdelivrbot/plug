@@ -1313,17 +1313,6 @@
     background-size: 16px auto;
 }
 
-/* ♕𝓢anáž♕ */
-[data-cid^="4523933-"] .msg .from .un {
-    position: relative;
-    left:-1px;
-    padding-left:21px;
-    background-image: url('http://plugtop.wz.cz/oqVQM.png');
-    background-repeat: no-repeat;
-    background-position: 2px center;
-    background-size: 16px auto;
-}
-
 /* ♡♥𝓢𝐏𝐀𝐉𝐃𝐘𝐍𝐊𝐀♥♡ */
 [data-cid^="13629753-"] .msg .from .un {
     position: relative;
