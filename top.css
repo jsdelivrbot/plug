@@ -1177,6 +1177,17 @@
     background-size: 16px auto;
 }
 
+/* ๖ۣۜⓞ๓𝓪𝓻𝒆𝓴ⓞ */
+[data-cid^="13557291-"] .msg .from .un {
+    position: relative;
+    left:-1px;
+    padding-left:21px;
+    background-image: url('http://plugtop.wz.cz/lRig.png');
+    background-repeat: no-repeat;
+    background-position: 2px center;
+    background-size: 16px auto;
+}
+
 /* Bouncers */
 
 /* -Vali- */
