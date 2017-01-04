@@ -1115,20 +1115,16 @@
   background-size: 32px auto;	
   background-position: 0px 0px;
 }
-/* TopBot */
-[data-cid^="21748320-"] .msg .from .un {
+
+/* Sasanka */
+[data-cid^="6011471-"] .msg .from .un {
     position: relative;
     left:-1px;
     padding-left:21px;
-    background-image: url('http://plugtop.wz.cz/i5Esh.png');
+    background-image: url('http://plugtop.wz.cz/favicon.ico');
     background-repeat: no-repeat;
     background-position: 2px center;
     background-size: 16px auto;
-}
-#chat [data-cid^="21748320-"] .bdg {
-  background: url('http://www.jpeg.cz/images/2016/12/05/zbS3O.png') !important;
-  background-size: 32px auto;	
-  background-position: 0px 0px;
 }
 
 /* Managers */
@@ -1155,16 +1151,22 @@
     background-size: 16px auto;
 }
 
-/* Sasanka */
-[data-cid^="6011471-"] .msg .from .un {
+/* TopBot */
+[data-cid^="21748320-"] .msg .from .un {
     position: relative;
     left:-1px;
     padding-left:21px;
-    background-image: url('http://plugtop.wz.cz/lRig.png');
+    background-image: url('https://sourcebans.gflclan.com/images/l.png');
     background-repeat: no-repeat;
     background-position: 2px center;
     background-size: 16px auto;
 }
+#chat [data-cid^="21748320-"] .bdg {
+  background: url('http://www.jpeg.cz/images/2016/12/05/zbS3O.png') !important;
+  background-size: 32px auto; 
+  background-position: 0px 0px;
+}
+
 
 /* ᴺᴱᴹᴼ */
 [data-cid^="4265234-"] .msg .from .un {
@@ -1188,14 +1190,12 @@
     background-size: 16px auto;
 }
 
-/* Bouncers */
-
 /* -Vali- */
 [data-cid^="5006844-"] .msg .from .un {
     position: relative;
     left:-1px;
     padding-left:21px;
-    background-image: url('http://plugtop.wz.cz/3XQ2O.png');
+    background-image: url('http://plugtop.wz.cz/lRig.png');
     background-repeat: no-repeat;
     background-position: 2px center;
     background-size: 16px auto;
@@ -1206,11 +1206,13 @@
     position: relative;
     left:-1px;
     padding-left:21px;
-    background-image: url('http://plugtop.wz.cz/3XQ2O.png');
+    background-image: url('http://plugtop.wz.cz/lRig.png');
     background-repeat: no-repeat;
     background-position: 2px center;
     background-size: 16px auto;
 }
+
+/* Bouncers */
 
 /* EĐT FΣΣLIИG */
 [data-cid^="8826756-"] .msg .from .un {
@@ -1345,6 +1347,18 @@
     background-position: 2px center;
     background-size: 16px auto;
 }
+
+/* Armer10 (mku1) */
+[data-cid^="5008754-"] .msg .from .un {
+    position: relative;
+    left:-1px;
+    padding-left:21px;
+    background-image: url('http://plugtop.wz.cz/oqVQM.png');
+    background-repeat: no-repeat;
+    background-position: 2px center;
+    background-size: 16px auto;
+}
+
 /*
 }
 #chat [data-cid^="13444919-"] .bdg {
