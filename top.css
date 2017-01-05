@@ -1162,7 +1162,7 @@
     background-size: 16px auto;
 }
 #chat [data-cid^="21748320-"] .bdg {
-  background: url('http://www.jpeg.cz/images/2016/12/05/zbS3O.png') !important;
+  background: url('http://www.jpeg.cz/images/2017/01/05/IDnQj.png') !important;
   background-size: 32px auto; 
   background-position: 0px 0px;
 }
@@ -1249,6 +1249,17 @@
 
 /* 𝕋𝕠𝕞𝕚𝕟𝕜𝕠 */
 [data-cid^="6057779-"] .msg .from .un {
+    position: relative;
+    left:-1px;
+    padding-left:21px;
+    background-image: url('http://plugtop.wz.cz/3XQ2O.png');
+    background-repeat: no-repeat;
+    background-position: 2px center;
+    background-size: 16px auto;
+}
+
+/* Armer10 (mku1) */
+[data-cid^="5008754-"] .msg .from .un {
     position: relative;
     left:-1px;
     padding-left:21px;
@@ -1348,8 +1359,30 @@
     background-size: 16px auto;
 }
 
-/* Armer10 (mku1) */
-[data-cid^="5008754-"] .msg .from .un {
+/* Dany_Ace <3 */
+[data-cid^="5042502-"] .msg .from .un {
+    position: relative;
+    left:-1px;
+    padding-left:21px;
+    background-image: url('http://plugtop.wz.cz/oqVQM.png');
+    background-repeat: no-repeat;
+    background-position: 2px center;
+    background-size: 16px auto;
+}
+
+/* Sweee */
+[data-cid^="20060260-"] .msg .from .un {
+    position: relative;
+    left:-1px;
+    padding-left:21px;
+    background-image: url('http://plugtop.wz.cz/oqVQM.png');
+    background-repeat: no-repeat;
+    background-position: 2px center;
+    background-size: 16px auto;
+}
+
+/* Sanáž */
+[data-cid^="4523933-"] .msg .from .un {
     position: relative;
     left:-1px;
     padding-left:21px;
