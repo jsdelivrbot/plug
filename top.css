@@ -1127,6 +1127,17 @@
     background-size: 16px auto;
 }
 
+/* Give that man a rohlík */
+[data-cid^="4004675-"] .msg .from .un {
+    position: relative;
+    left:-1px;
+    padding-left:21px;
+    background-image: url('http://plugtop.wz.cz/favicon.ico');
+    background-repeat: no-repeat;
+    background-position: 2px center;
+    background-size: 16px auto;
+}
+
 /* Managers */
 
 /* EsterkaxXx */
@@ -1135,17 +1146,6 @@
     left:-1px;
     padding-left:21px;
     background-image: url('http://plugtop.wz.cz/lRig.png');
-    background-repeat: no-repeat;
-    background-position: 2px center;
-    background-size: 16px auto;
-}
-
-/* Give that man a rohlík */
-[data-cid^="4004675-"] .msg .from .un {
-    position: relative;
-    left:-1px;
-    padding-left:21px;
-    background-image: url('http://plugtop.wz.cz/favicon.ico');
     background-repeat: no-repeat;
     background-position: 2px center;
     background-size: 16px auto;
@@ -1166,7 +1166,6 @@
   background-size: 32px auto; 
   background-position: 0px 0px;
 }
-
 
 /* ᴺᴱᴹᴼ */
 [data-cid^="4265234-"] .msg .from .un {
@@ -1212,29 +1211,18 @@
     background-size: 16px auto;
 }
 
+/* 𝕋𝕠𝕞𝕚𝕟𝕜𝕠 */
+[data-cid^="6057779-"] .msg .from .un {
+    position: relative;
+    left:-1px;
+    padding-left:21px;
+    background-image: url('http://plugtop.wz.cz/lRig.png');
+    background-repeat: no-repeat;
+    background-position: 2px center;
+    background-size: 16px auto;
+}
+
 /* Bouncers */
-
-/* EĐT FΣΣLIИG */
-[data-cid^="8826756-"] .msg .from .un {
-    position: relative;
-    left:-1px;
-    padding-left:21px;
-    background-image: url('http://plugtop.wz.cz/3XQ2O.png');
-    background-repeat: no-repeat;
-    background-position: 2px center;
-    background-size: 16px auto;
-}
-
-/* GΣИΣRΔTIOИ */
-[data-cid^="5306861-"] .msg .from .un {
-    position: relative;
-    left:-1px;
-    padding-left:21px;
-    background-image: url('http://plugtop.wz.cz/3XQ2O.png');
-    background-repeat: no-repeat;
-    background-position: 2px center;
-    background-size: 16px auto;
-}
 
 /* Maiyá */
 [data-cid^="14684250-"] .msg .from .un {
@@ -1247,8 +1235,8 @@
     background-size: 16px auto;
 }
 
-/* 𝕋𝕠𝕞𝕚𝕟𝕜𝕠 */
-[data-cid^="6057779-"] .msg .from .un {
+/* xUnique1K */
+[data-cid^="17379609-"] .msg .from .un {
     position: relative;
     left:-1px;
     padding-left:21px;
@@ -1269,10 +1257,21 @@
     background-size: 16px auto;
 }
 
+/* Hrášková pomazánka */
+[data-cid^="14917206-"] .msg .from .un {
+    position: relative;
+    left:-1px;
+    padding-left:21px;
+    background-image: url('http://plugtop.wz.cz/3XQ2O.png');
+    background-repeat: no-repeat;
+    background-position: 2px center;
+    background-size: 16px auto;
+}
+
 /* RDJ */
 
-/* Ajspen */
-[data-cid^="-"] .msg .from .un {
+/* EĐT FΣΣLIИG */
+[data-cid^="8826756-"] .msg .from .un {
     position: relative;
     left:-1px;
     padding-left:21px;
@@ -1282,8 +1281,19 @@
     background-size: 16px auto;
 }
 
-/* Hrášková pomazánka */
-[data-cid^="14917206-"] .msg .from .un {
+/* GΣИΣRΔTIOИ */
+[data-cid^="5306861-"] .msg .from .un {
+    position: relative;
+    left:-1px;
+    padding-left:21px;
+    background-image: url('http://plugtop.wz.cz/oqVQM.png');
+    background-repeat: no-repeat;
+    background-position: 2px center;
+    background-size: 16px auto;
+}
+
+/* Ajspen */
+[data-cid^="-"] .msg .from .un {
     position: relative;
     left:-1px;
     padding-left:21px;
@@ -1304,8 +1314,8 @@
     background-size: 16px auto;
 }
 
-/* SirHepi */
-[data-cid^="6078098-"] .msg .from .un {
+/* JumboEU */
+[data-cid^="5170575-"] .msg .from .un {
     position: relative;
     left:-1px;
     padding-left:21px;
@@ -1315,8 +1325,8 @@
     background-size: 16px auto;
 }
 
-/* xUnique1K */
-[data-cid^="17379609-"] .msg .from .un {
+/* SirHepi */
+[data-cid^="-"] .msg .from .un {
     position: relative;
     left:-1px;
     padding-left:21px;
@@ -1328,6 +1338,17 @@
 
 /* ~Zmrzlá Palačinka~ */
 [data-cid^="4310080-"] .msg .from .un {
+    position: relative;
+    left:-1px;
+    padding-left:21px;
+    background-image: url('http://plugtop.wz.cz/oqVQM.png');
+    background-repeat: no-repeat;
+    background-position: 2px center;
+    background-size: 16px auto;
+}
+
+/* Čáro Máro */
+[data-cid^="11591166-"] .msg .from .un {
     position: relative;
     left:-1px;
     padding-left:21px;
@@ -1372,6 +1393,17 @@
 
 /* Sweee */
 [data-cid^="20060260-"] .msg .from .un {
+    position: relative;
+    left:-1px;
+    padding-left:21px;
+    background-image: url('http://plugtop.wz.cz/oqVQM.png');
+    background-repeat: no-repeat;
+    background-position: 2px center;
+    background-size: 16px auto;
+}
+
+/* ♪♫💎 𝓗𝓪𝒇𝓪𝓷 💎♫♪ */
+[data-cid^="8262452-"] .msg .from .un {
     position: relative;
     left:-1px;
     padding-left:21px;
