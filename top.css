@@ -1226,14 +1226,12 @@
     background-size: 16px auto;
 }
 
-/* Bouncers */
-
 /* Čáro Máro */
 [data-cid^="11591166-"] .msg .from .un {
     position: relative;
     left:-1px;
     padding-left:21px;
-    background-image: url('http://plugtop.wz.cz/3XQ2O.png');
+    background-image: url('http://plugtop.wz.cz/lRig.png');
     background-repeat: no-repeat;
     background-position: 2px center;
     background-size: 16px auto;
@@ -1244,11 +1242,13 @@
     position: relative;
     left:-1px;
     padding-left:21px;
-    background-image: url('http://plugtop.wz.cz/3XQ2O.png');
+    background-image: url('http://plugtop.wz.cz/lRig.png');
     background-repeat: no-repeat;
     background-position: 2px center;
     background-size: 16px auto;
 }
+
+/* Bouncers */
 
 /* Armer10 (mku1) */
 [data-cid^="5008754-"] .msg .from .un {
@@ -1263,6 +1263,17 @@
 
 /* Hrášková pomazánka */
 [data-cid^="14917206-"] .msg .from .un {
+    position: relative;
+    left:-1px;
+    padding-left:21px;
+    background-image: url('http://plugtop.wz.cz/3XQ2O.png');
+    background-repeat: no-repeat;
+    background-position: 2px center;
+    background-size: 16px auto;
+}
+
+/* Sanáž */
+[data-cid^="4523933-"] .msg .from .un {
     position: relative;
     left:-1px;
     padding-left:21px;
@@ -1334,7 +1345,7 @@
     position: relative;
     left:-1px;
     padding-left:21px;
-    background-image: url('http://plugtop.wz.cz/oqVQM.png');
+    background-image: url('');
     background-repeat: no-repeat;
     background-position: 2px center;
     background-size: 16px auto;
@@ -1356,7 +1367,7 @@
     position: relative;
     left:-1px;
     padding-left:21px;
-    background-image: url('http://plugtop.wz.cz/oqVQM.png');
+    background-image: url('');
     background-repeat: no-repeat;
     background-position: 2px center;
     background-size: 16px auto;
@@ -1367,7 +1378,7 @@
     position: relative;
     left:-1px;
     padding-left:21px;
-    background-image: url('');
+    background-image: url('http://plugtop.wz.cz/oqVQM.png');
     background-repeat: no-repeat;
     background-position: 2px center;
     background-size: 16px auto;
@@ -1417,9 +1428,8 @@
     background-size: 16px auto;
 }
 
-
-/* Sanáž */
-[data-cid^="4523933-"] .msg .from .un {
+/* Skřítek */
+[data-cid^="13506305-"] .msg .from .un {
     position: relative;
     left:-1px;
     padding-left:21px;
@@ -1428,6 +1438,7 @@
     background-position: 2px center;
     background-size: 16px auto;
 }
+
 
 /*
 }
