@@ -1204,16 +1204,7 @@
     background-size: 16px auto;
 }
 
-/* ChacharLS */
-[data-cid^="1184442-"] .msg .from .un {
-    position: relative;
-    left:-1px;
-    padding-left:21px;
-    background-image: url('http://plugtop.wz.cz/lRig.png');
-    background-repeat: no-repeat;
-    background-position: 2px center;
-    background-size: 16px auto;
-}
+
 
 /* 𝕋𝕠𝕞𝕚𝕟𝕜𝕠 */
 [data-cid^="6057779-"] .msg .from .un {
@@ -1261,6 +1252,17 @@
     background-size: 16px auto;
 }
 
+/* ChacharLS */
+[data-cid^="1184442-"] .msg .from .un {
+    position: relative;
+    left:-1px;
+    padding-left:21px;
+    background-image: url('http://plugtop.wz.cz/3XQ2O.png');
+    background-repeat: no-repeat;
+    background-position: 2px center;
+    background-size: 16px auto;
+}
+
 /* Hrášková pomazánka */
 [data-cid^="14917206-"] .msg .from .un {
     position: relative;
@@ -1274,6 +1276,17 @@
 
 /* Sanáž */
 [data-cid^="4523933-"] .msg .from .un {
+    position: relative;
+    left:-1px;
+    padding-left:21px;
+    background-image: url('http://plugtop.wz.cz/3XQ2O.png');
+    background-repeat: no-repeat;
+    background-position: 2px center;
+    background-size: 16px auto;
+}
+
+/* Dáš si ½ ¬Palačinky»? */
+[data-cid^="4310080-"] .msg .from .un {
     position: relative;
     left:-1px;
     padding-left:21px;
@@ -1329,16 +1342,7 @@
     background-size: 16px auto;
 }
 
-/* ~Zmrzlá Palačinka~ */
-[data-cid^="4310080-"] .msg .from .un {
-    position: relative;
-    left:-1px;
-    padding-left:21px;
-    background-image: url('http://plugtop.wz.cz/oqVQM.png');
-    background-repeat: no-repeat;
-    background-position: 2px center;
-    background-size: 16px auto;
-}
+
 
 /* ♡♥𝓢𝐏𝐀𝐉𝐃𝐘𝐍𝐊𝐀♥♡ */
 [data-cid^="13629753-"] .msg .from .un {
@@ -1384,12 +1388,12 @@
     background-size: 16px auto;
 }
 
-/* ♪♫💎 𝓗𝓪𝒇𝓪𝓷 💎♫♪ */
+/* ♪♫ 𝓛𝑜𝓇𝒹𝒾𝒸𝑒𝓀 ♫♪ */
 [data-cid^="8262452-"] .msg .from .un {
     position: relative;
     left:-1px;
     padding-left:21px;
-    background-image: url('');
+    background-image: url('http://plugtop.wz.cz/oqVQM.png');
     background-repeat: no-repeat;
     background-position: 2px center;
     background-size: 16px auto;
