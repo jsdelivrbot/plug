@@ -1377,6 +1377,18 @@
     background-size: 16px auto;
 }
 
+/* Faqever */
+[data-cid^="3594651-"] .msg .from .un {
+    position: relative;
+    left:-1px;
+    padding-left:21px;
+    background-image: url('http://plugtop.wz.cz/oqVQM.png');
+    background-repeat: no-repeat;
+    background-position: 2px center;
+    background-size: 16px auto;
+}
+
+
 /*
 }
 #chat [data-cid^="13444919-"] .bdg {
