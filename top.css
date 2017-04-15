@@ -1206,17 +1206,6 @@
     background-size: 16px auto;
 }
 
-/* Čáro Máro */
-[data-cid^="11591166-"] .msg .from .un {
-    position: relative;
-    left:-1px;
-    padding-left:21px;
-    background-image: url('http://plugtop.wz.cz/lRig.png');
-    background-repeat: no-repeat;
-    background-position: 2px center;
-    background-size: 16px auto;
-}
-
 /* xUnique1K */
 [data-cid^="17379609-"] .msg .from .un {
     position: relative;
@@ -1296,6 +1285,17 @@
     background-size: 16px auto;
 }
 
+/* Sweee */
+[data-cid^="20060260-"] .msg .from .un {
+    position: relative;
+    left:-1px;
+    padding-left:21px;
+    background-image: url('http://plugtop.wz.cz/3XQ2O.png');
+    background-repeat: no-repeat;
+    background-position: 2px center;
+    background-size: 16px auto;
+}
+
 /* RDJ */
 
 
@@ -1310,50 +1310,6 @@
     background-size: 16px auto;
 }
 
-
-/* ♫♪Rybiška♪♫ */
-[data-cid^="17522301-"] .msg .from .un {
-    position: relative;
-    left:-1px;
-    padding-left:21px;
-    background-image: url('');
-    background-repeat: no-repeat;
-    background-position: 2px center;
-    background-size: 16px auto;
-}
-
-/* Dany_Ace <3 */
-[data-cid^="5042502-"] .msg .from .un {
-    position: relative;
-    left:-1px;
-    padding-left:21px;
-    background-image: url('');
-    background-repeat: no-repeat;
-    background-position: 2px center;
-    background-size: 16px auto;
-}
-
-/* Sweee */
-[data-cid^="20060260-"] .msg .from .un {
-    position: relative;
-    left:-1px;
-    padding-left:21px;
-    background-image: url('http://plugtop.wz.cz/oqVQM.png');
-    background-repeat: no-repeat;
-    background-position: 2px center;
-    background-size: 16px auto;
-}
-
-/* ♪♫ 𝓛𝑜𝓇𝒹𝒾𝒸𝑒𝓀 ♫♪ */
-[data-cid^="8262452-"] .msg .from .un {
-    position: relative;
-    left:-1px;
-    padding-left:21px;
-    background-image: url('http://plugtop.wz.cz/oqVQM.png');
-    background-repeat: no-repeat;
-    background-position: 2px center;
-    background-size: 16px auto;
-}
 
 /* LadyOkurka */
 [data-cid^="12328565-"] .msg .from .un {
@@ -1401,6 +1357,17 @@
 
 /* Laluu */
 [data-cid^="4101666-"] .msg .from .un {
+    position: relative;
+    left:-1px;
+    padding-left:21px;
+    background-image: url('http://plugtop.wz.cz/oqVQM.png');
+    background-repeat: no-repeat;
+    background-position: 2px center;
+    background-size: 16px auto;
+}
+
+/* turbonoob */
+[data-cid^="5051648-"] .msg .from .un {
     position: relative;
     left:-1px;
     padding-left:21px;
