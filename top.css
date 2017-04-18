@@ -1120,16 +1120,6 @@
   background-position: 0px 0px;
 }
 
-/* Sasanka */
-[data-cid^="6011471-"] .msg .from .un {
-    position: relative;
-    left:-1px;
-    padding-left:21px;
-    background-image: url('http://plugtop.wz.cz/favicon.ico');
-    background-repeat: no-repeat;
-    background-position: 2px center;
-    background-size: 16px auto;
-}
 
 /* Give that man a rohlík */
 [data-cid^="4004675-"] .msg .from .un {
@@ -1142,7 +1132,30 @@
     background-size: 16px auto;
 }
 
+/* xUnique1K */
+[data-cid^="17379609-"] .msg .from .un {
+    position: relative;
+    left:-1px;
+    padding-left:21px;
+    background-image: url('http://plugtop.wz.cz/favicon.ico');
+    background-repeat: no-repeat;
+    background-position: 2px center;
+    background-size: 16px auto;
+}
+
 /* Managers */
+
+
+/* Sasanka */
+[data-cid^="6011471-"] .msg .from .un {
+    position: relative;
+    left:-1px;
+    padding-left:21px;
+    background-image: url('http://plugtop.wz.cz/lRig.png');
+    background-repeat: no-repeat;
+    background-position: 2px center;
+    background-size: 16px auto;
+}
 
 /* EsterkaxXx */
 [data-cid^="5922875-"] .msg .from .un {
@@ -1206,16 +1219,6 @@
     background-size: 16px auto;
 }
 
-/* xUnique1K */
-[data-cid^="17379609-"] .msg .from .un {
-    position: relative;
-    left:-1px;
-    padding-left:21px;
-    background-image: url('http://plugtop.wz.cz/lRig.png');
-    background-repeat: no-repeat;
-    background-position: 2px center;
-    background-size: 16px auto;
-}
 
 /* ҒИC ᗯᖇᗴST */
 [data-cid^="4105532-"] .msg .from .un {
