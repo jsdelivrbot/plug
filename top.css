@@ -1168,8 +1168,8 @@
     background-size: 16px auto;
 }
 
-/* TopBot */
-[data-cid^="21748320-"] .msg .from .un {
+/* BotTop */
+[data-cid^="26570536-"] .msg .from .un {
     position: relative;
     left:-1px;
     padding-left:21px;
@@ -1208,17 +1208,6 @@
     background-size: 16px auto;
 }
 
-/* 𝕋𝕠𝕞𝕚𝕟𝕜𝕠 */
-[data-cid^="6057779-"] .msg .from .un {
-    position: relative;
-    left:-1px;
-    padding-left:21px;
-    background-image: url('http://plugtop.wz.cz/lRig.png');
-    background-repeat: no-repeat;
-    background-position: 2px center;
-    background-size: 16px auto;
-}
-
 
 /* ҒИC ᗯᖇᗴST */
 [data-cid^="4105532-"] .msg .from .un {
@@ -1232,28 +1221,6 @@
 }
 
 /* Bouncers */
-
-/* Armer10 (mku1) */
-[data-cid^="5008754-"] .msg .from .un {
-    position: relative;
-    left:-1px;
-    padding-left:21px;
-    background-image: url('http://plugtop.wz.cz/3XQ2O.png');
-    background-repeat: no-repeat;
-    background-position: 2px center;
-    background-size: 16px auto;
-}
-
-/* ChacharLS */
-[data-cid^="1184442-"] .msg .from .un {
-    position: relative;
-    left:-1px;
-    padding-left:21px;
-    background-image: url('http://plugtop.wz.cz/3XQ2O.png');
-    background-repeat: no-repeat;
-    background-position: 2px center;
-    background-size: 16px auto;
-}
 
 /* ᴺᴱᴹᴼ */
 [data-cid^="4265234-"] .msg .from .un {
@@ -1312,19 +1279,6 @@
 
 /* RDJ */
 
-
-/* JumboEU */
-[data-cid^="5170575-"] .msg .from .un {
-    position: relative;
-    left:-1px;
-    padding-left:21px;
-    background-image: url('http://plugtop.wz.cz/oqVQM.png');
-    background-repeat: no-repeat;
-    background-position: 2px center;
-    background-size: 16px auto;
-}
-
-
 /* LadyOkurka */
 [data-cid^="12328565-"] .msg .from .un {
     position: relative;
@@ -1347,16 +1301,6 @@
     background-size: 16px auto;
 }
 
-/* xAleXx */
-[data-cid^="3700924-"] .msg .from .un {
-    position: relative;
-    left:-1px;
-    padding-left:21px;
-    background-image: url('http://plugtop.wz.cz/oqVQM.png');
-    background-repeat: no-repeat;
-    background-position: 2px center;
-    background-size: 16px auto;
-}
 
 /* Skřítek */
 [data-cid^="13506305-"] .msg .from .un {
@@ -1380,7 +1324,7 @@
     background-size: 16px auto;
 }
 
-/* turbonoob */
+/* 𝓇𝑜𝒽𝓁𝒶𝒿𝓈 */
 [data-cid^="5051648-"] .msg .from .un {
     position: relative;
     left:-1px;
