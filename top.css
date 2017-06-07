@@ -1256,6 +1256,17 @@
     background-size: 16px auto;
 }
 
+/* Viktorik */
+[data-cid^="17207186-"] .msg .from .un {
+    position: relative;
+    left:-1px;
+    padding-left:21px;
+    background-image: url('http://plugtop.wz.cz/3XQ2O.png');
+    background-repeat: no-repeat;
+    background-position: 2px center;
+    background-size: 16px auto;
+}
+
 /* 𝓇𝑜𝒽𝓁𝒶𝒿𝓈 */
 [data-cid^="5051648-"] .msg .from .un {
     position: relative;
