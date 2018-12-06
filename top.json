@@ -2,7 +2,7 @@
   "room":   "ⓉⓄⓅ CZ-SK-EN Music♫",
   "author": "TopBot",
   "icon":   "http://plugtop.wz.cz/GMIjh.png",
-  "css":    "https://rawgit.com/Samnick86/plug/master/top.css",
+  "css":    "https://cdn.jsdelivr.net/gh/Samnick86/plug/top.css",
   "rules": {
     "allowAutorespond": true,
     "allowAutowoot":    true,
